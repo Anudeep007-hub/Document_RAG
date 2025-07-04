@@ -1,0 +1,7 @@
+streamlit 
+langchain-ollama
+langchain-groq 
+langchain-community 
+langchain-core 
+faiss-gpu-cu12
+
