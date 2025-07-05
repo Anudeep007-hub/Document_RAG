@@ -1,7 +1,8 @@
-streamlit 
-langchain-ollama
-langchain-groq 
-langchain-community 
-langchain-core 
-faiss-gpu-cu12
-
+streamlit
+langchain-community
+langchain-core
+langchain-groq
+faiss-cpu
+sentence-transformers
+python-dotenv
+pypdf
